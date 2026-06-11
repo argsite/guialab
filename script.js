@@ -192,58 +192,58 @@ var data = [
 
     {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "CREATININA ( SORO )",
+        "Codigo": "CREAT",
+        "Tubo": "Amarelo"
     },
 
     {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "COAGULOGRAMA",
+        "Codigo": "TP1 + TTPA1",
+        "Tubo": "Azul"
     },
 
     {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "TEMPO DE PROTROMBINA (TP)",
+        "Codigo": "TP1",
+        "Tubo": "Azul"
     },
 
     {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "TTPA(TROMBOPLASTINA)",
+        "Codigo": "TTPA1",
+        "Tubo": "Azul"
     },
 
     {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "COLESTEROL TOTAL E FRAÇÕES (COL + HDL + LDL + VLDL + TRIGLICERIDES)",
+        "Codigo": "CTF",
+        "Tubo": "Amarelo"
     },
 
     {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "COOMBS DIRETO",
+        "Codigo": "COMBD",
+        "Tubo": "Roxo"
     },
 
     {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "COOMBS INDIRETO",
+        "Codigo": "COMBI",
+        "Tubo": "Vermelho"
     },
 
     {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "CREATINAFOSFOQUINASE (CPK)",
+        "Codigo": "CPK",
+        "Tubo": "Amarelo"
     },
 
 
