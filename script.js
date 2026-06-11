@@ -355,7 +355,7 @@ var data = [
     },
     {
         "id": "6",
-        "Exame": "HEMOGLOBINA GLICADA (HbA1c)",
+        "Exame": "HEMOGLOBINA GLICADA OU GLICOSILADA (HbA1c)",
         "Codigo": "HBGLI",
         "Tubo": "Roxo"
     },
@@ -505,67 +505,67 @@ var data = [
         "id": "6",
         "Exame": "PROTEINA C REATIVA",
         "Codigo": "PCR",
-        "Tubo": ""
+        "Tubo": "Amarelo"
     },
 
         {
         "id": "6",
         "Exame": "VDRL - SIFILIS",
         "Codigo": "VDRL",
-        "Tubo": ""
+        "Tubo": "Amarelo"
     },
 
         {
         "id": "6",
         "Exame": "SODIO",
         "Codigo": "NA",
-        "Tubo": ""
+        "Tubo": "Amarelo"
     },
 
         {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "PSA TOTAL",
+        "Codigo": "PSA",
+        "Tubo": "Vermelho"
     },
 
         {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
-    },
-
-
-        {
-        "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "PSA LIVRE",
+        "Codigo": "PSAL",
+        "Tubo": "Vermelho"
     },
 
 
         {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "TIREOGLOBULINA",
+        "Codigo": "ATIRO",
+        "Tubo": "Vermelho"
     },
 
 
         {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "TOXOPLASMOSE IGG",
+        "Codigo": "TOXOG",
+        "Tubo": "Vermelho"
     },
 
 
         {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "TOXOPLASMOSE IGM",
+        "Codigo": "TOXOM",
+        "Tubo": "Vermelho"
+    },
+
+
+        {
+        "id": "6",
+        "Exame": "TRANSFERINA",
+        "Codigo": "TRANS",
+        "Tubo": "Vermelho"
     },
 
 
