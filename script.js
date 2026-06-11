@@ -475,9 +475,9 @@ var data = [
 
         {
         "id": "6",
-        "Exame": "PROTEINURIA DE 24 HORAS",
+        "Exame": "PROTEINURIA DE 24 HORAS / DOSAGEM DE PROTEINAS (URINA 24 HORAS)",
         "Codigo": "PT24",
-        "Tubo": "Frasco 24h"
+        "Tubo": "Frasco 24h (sem conservante)"
     },
 
         {
