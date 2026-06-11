@@ -388,9 +388,117 @@ var data = [
 
         {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "IMUNOGLOBULINA A - IgA",
+        "Codigo": "IGA",
+        "Tubo": "Vermelho"
+    },
+
+        {
+        "id": "6",
+        "Exame": "IMUNOGLOBULINA E - IgE",
+        "Codigo": "UIGE",
+        "Tubo": "Vermelho"
+    },
+
+        {
+        "id": "6",
+        "Exame": "IMUNOGLOBULINA G - IgG",
+        "Codigo": "UIGG",
+        "Tubo": "Vermelho"
+    },
+
+        {
+        "id": "6",
+        "Exame": "IMUNOGLOBULINA M - IgM",
+        "Codigo": "UIGM",
+        "Tubo": "Vermelho"
+    },
+
+        {
+        "id": "6",
+        "Exame": "MAGNESIO",
+        "Codigo": "MGS",
+        "Tubo": "Amarelo"
+    },
+
+        {
+        "id": "6",
+        "Exame": "PARASITOLOGICO DE FEZES (PRIMEIRA AMOSTRA)",
+        "Codigo": "PPF1",
+        "Tubo": "Frasco coletor"
+    },
+
+    
+        {
+        "id": "6",
+        "Exame": "PARASITOLOGICO DE FEZES (SEGUNDA AMOSTRA)",
+        "Codigo": "PPF2",
+        "Tubo": "Frasco coletor"
+    },
+
+    
+        {
+        "id": "6",
+        "Exame": "PARASITOLOGICO DE FEZES (TERCEIRA AMOSTRA)",
+        "Codigo": "PPF3",
+        "Tubo": "Frasco coletor"
+    },
+
+    
+    {
+        "id": "6",
+        "Exame": "PARATORMONIO - PTH",
+        "Codigo": "PTH",
+        "Tubo": "Vermelho"
+    },
+
+        {
+        "id": "6",
+        "Exame": "POTASSIO",
+        "Codigo": "K",
+        "Tubo": "Amarelo"
+    },
+
+        {
+        "id": "6",
+        "Exame": "TRIGLICERIDES",
+        "Codigo": "TRI",
+        "Tubo": "Amarelo"
+    },
+
+        {
+        "id": "6",
+        "Exame": "PROLACTINA",
+        "Codigo": "PROLA",
+        "Tubo": "Vermelho"
+    },
+
+        {
+        "id": "6",
+        "Exame": "PROTEINURIA DE 24 HORAS",
+        "Codigo": "PT24",
+        "Tubo": "Frasco 24h"
+    },
+
+        {
+        "id": "6",
+        "Exame": "SANGUE OCULTO NAS FEZES 1 amostra",
+        "Codigo": "OCUL1",
+        "Tubo": "Frasco coletor"
+    },
+
+        {
+        "id": "6",
+        "Exame": "SANGUE OCULTO NAS FEZES 2 amostra",
+        "Codigo": "OCUL2",
+        "Tubo": "Frasco coletor"
+    },
+
+        {
+        "id": "6",
+        "Exame": "SANGUE OCULTO NAS FEZES 3 amostra",
+        "Codigo": "OCUL3",
+        "Tubo": "Frasco coletor"
     },
 
         {
@@ -428,27 +536,9 @@ var data = [
         "Tubo": ""
     },
 
-        {
-        "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
-    },
 
-        {
-        "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
-    },
 
-        {
-        "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
-    },
-
+    
 ];
 
 state.data = data;
