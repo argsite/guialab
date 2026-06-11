@@ -579,7 +579,7 @@ var data = [
 
         {
         "id": "6",
-        "Exame": "URINA EAS",
+        "Exame": "URINA (EAS) / URINA TIPO 1",
         "Codigo": "UI",
         "Tubo": "Frasco coletor"
     },
