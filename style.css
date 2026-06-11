@@ -246,8 +246,15 @@ table.table-striped.table-hover tbody tr:hover {
 }
 
 .branco {
-color: #FAFAFA; /* Branco perolado */
+color: #FAFAFA; /* Branco */
 }
+
+.branco-perolado {
+color: #FFFBE8; /* Branco perolado */
+}
+
+
+FFFBE8
 
     .pagination {
         float: right;
