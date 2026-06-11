@@ -297,32 +297,157 @@ var data = [
 
     {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "FATOR RH",
+        "Codigo": "RH",
+        "Tubo": "Roxo"
     },
 
     {
+        "id": "6",
+        "Exame": "COFATOR RISTOCETINA",
+        "Codigo": "FVOWR",
+        "Tubo": "Azul"
+    },
+
+    {
+        "id": "6",
+        "Exame": "FATOR DE VON WILLEBRAND",
+        "Codigo": "ESFVW",
+        "Tubo": "Azul"
+    },
+
+    {
+        "id": "6",
+        "Exame": "FERRO SERICO",
+        "Codigo": "FE",
+        "Tubo": "Amarelo"
+    },
+
+    {
+        "id": "6",
+        "Exame": "FERRITINA SERICA",
+        "Codigo": "FERRI",
+        "Tubo": "Amarelo"
+    },
+    {
+        "id": "6",
+        "Exame": "FOSFATASE ALCALINA",
+        "Codigo": "FALN",
+        "Tubo": "Amarelo"
+    },
+    {
+        "id": "6",
+        "Exame": "FTA - ABS - ANTICORPOS IGG",
+        "Codigo": "FTA",
+        "Tubo": "Vermelho"
+    },
+    {
+        "id": "6",
+        "Exame": "FTA - ABS - ANTICORPOS IGM",
+        "Codigo": "FTAM",
+        "Tubo": "Vermelho"
+    },
+    {
+        "id": "6",
+        "Exame": "GAMA GT",
+        "Codigo": "GAMGT",
+        "Tubo": "Amarelo"
+    },
+    {
+        "id": "6",
+        "Exame": "HEMOGLOBINA GLICADA",
+        "Codigo": "HBGLI",
+        "Tubo": "Roxo"
+    },
+    {
+        "id": "6",
+        "Exame": "HEPATITE B",
+        "Codigo": "HBSAG",
+        "Tubo": "Vermelho"
+    },
+    {
+        "id": "6",
+        "Exame": "HEPATITE C",
+        "Codigo": "HCV",
+        "Tubo": "Vermelho"
+    },
+
+        {
+        "id": "6",
+        "Exame": "DEHIDROEPIANDROSTERONA - DHEA",
+        "Codigo": "DHEA",
+        "Tubo": "Vermelho"
+    },
+
+        {
+        "id": "6",
+        "Exame": "ANTI HIV",
+        "Codigo": "HIV",
+        "Tubo": "Vermelho"
+    },
+
+        {
         "id": "6",
         "Exame": "",
         "Codigo": "",
         "Tubo": ""
     },
 
-    {
+        {
         "id": "6",
         "Exame": "",
         "Codigo": "",
         "Tubo": ""
     },
 
-    {
+        {
         "id": "6",
         "Exame": "",
         "Codigo": "",
         "Tubo": ""
     },
 
+        {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
+        {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
+        {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
+        {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
+        {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
+        {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
 
 ];
 
