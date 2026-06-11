@@ -573,7 +573,7 @@ var data = [
         "id": "6",
         "Exame": "UREIA",
         "Codigo": "UREIA",
-        "Tubo": ""
+        "Tubo": "Amarelo"
     },
 
 
@@ -597,39 +597,39 @@ var data = [
         "id": "6",
         "Exame": "VELOCIDADE DE HEMOSEDIMENTAÇAO (VHS)",
         "Codigo": "VHS",
-        "Tubo": ""
+        "Tubo": "Roxo"
     },
 
 
         {
         "id": "6",
         "Exame": "VITAMINA B12",
-        "Codigo": "",
-        "Tubo": ""
+        "Codigo": "B12",
+        "Tubo": "Vermelho"
     },
 
 
         {
         "id": "6",
         "Exame": "VITAMINA D",
-        "Codigo": "",
-        "Tubo": ""
+        "Codigo": "VITD",
+        "Tubo": "Vermelho"
     },
 
 
         {
         "id": "6",
-        "Exame": "WALER",
-        "Codigo": "",
-        "Tubo": ""
+        "Exame": "WAALER-ROSE",
+        "Codigo": "WALER",
+        "Tubo": "Vermelho"
     },
 
 
         {
         "id": "6",
-        "Exame": "HEPATITE C - QUANTIFICAÇAO POR PCR",
+        "Exame": "HEPATITE C - PCR QUANTIFICATIVO",
         "Codigo": "RNAHC",
-        "Tubo": ""
+        "Tubo": "Branco"
     },
 
 
