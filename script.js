@@ -629,9 +629,16 @@ var data = [
         "id": "6",
         "Exame": "HEPATITE C - PCR QUANTIFICATIVO",
         "Codigo": "RNAHC",
-        "Tubo": "Branco"
+        "Tubo": "Branco perolado"
     },
 
+
+        {
+        "id": "6",
+        "Exame": "ZINCO (SORO)",
+        "Codigo": "ZINCF",
+        "Tubo": "Branco"
+    },
 
 
     
