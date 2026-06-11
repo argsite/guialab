@@ -136,7 +136,7 @@ var data = [
 
     {
         "id": "6",
-        "Exame": "BETA HCG",
+        "Exame": "BETA HCG - DOSAGEM DE GONADOTROFINA",
         "Codigo": "TGBET",
         "Tubo": "Amarelo"
     },
@@ -246,6 +246,82 @@ var data = [
         "Tubo": "Amarelo"
     },
 
+    {
+        "id": "6",
+        "Exame": "DESIDROGENASE LÁTICA",
+        "Codigo": "DHL",
+        "Tubo": "Amarelo"
+    },
+
+    {
+        "id": "6",
+        "Exame": "CREATININA URINÁRIA 24 HORAS",
+        "Codigo": "CRE24",
+        "Tubo": ""
+    },
+
+    {
+        "id": "6",
+        "Exame": "ELETROFORESE PROTEINAS",
+        "Codigo": "ELETR",
+        "Tubo": "Vermelho"
+    },
+
+    {
+        "id": "6",
+        "Exame": "ESTREPTOCOCOS BETA-HEMOLÍTICOS GRUPO B (ANAL)",
+        "Codigo": "STRE",
+        "Tubo": "Cotonete"
+    },
+
+    {
+        "id": "6",
+        "Exame": "ESTREPTOCOCOS BETA-HEMOLÍTICOS GRUPO B (ANAL)",
+        "Codigo": "STREP",
+        "Tubo": "Cotonete"
+    },
+
+    {
+        "id": "6",
+        "Exame": "ESTRADIOL",
+        "Codigo": "ESTRA",
+        "Tubo": "Vermelho"
+    },
+
+    {
+        "id": "6",
+        "Exame": "DETERMINACAO DE FATOR REUMATOIDE (FR) - LATEX",
+        "Codigo": "LATEX",
+        "Tubo": "Vermelho"
+    },
+
+    {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
+    {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
+    {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
+    {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
 
 
 ];
