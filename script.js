@@ -678,6 +678,8 @@ function getTuboClass(tubo) {
             return 'class="Equipe verde"';
         case 'branco':
             return 'class="Equipe branco"';
+        case 'branco perolado':
+            return 'class="Equipe branco-perolado"';
         default:
             return 'class="Equipe text-success"'; // Cor padrão caso não encontre nenhuma
     }
