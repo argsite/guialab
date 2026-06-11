@@ -571,7 +571,39 @@ var data = [
 
         {
         "id": "6",
-        "Exame": "",
+        "Exame": "UREIA",
+        "Codigo": "UREIA",
+        "Tubo": ""
+    },
+
+
+        {
+        "id": "6",
+        "Exame": "URINA EAS",
+        "Codigo": "UI",
+        "Tubo": "Frasco coletor"
+    },
+
+
+        {
+        "id": "6",
+        "Exame": "UROCULTURA",
+        "Codigo": "UCULT",
+        "Tubo": "Frasco coletor"
+    },
+
+
+        {
+        "id": "6",
+        "Exame": "VELOCIDADE DE HEMOSEDIMENTAÇAO (VHS)",
+        "Codigo": "VHS",
+        "Tubo": ""
+    },
+
+
+        {
+        "id": "6",
+        "Exame": "VITAMINA B12",
         "Codigo": "",
         "Tubo": ""
     },
@@ -579,7 +611,7 @@ var data = [
 
         {
         "id": "6",
-        "Exame": "",
+        "Exame": "VITAMINA D",
         "Codigo": "",
         "Tubo": ""
     },
@@ -587,8 +619,16 @@ var data = [
 
         {
         "id": "6",
-        "Exame": "",
+        "Exame": "WALER",
         "Codigo": "",
+        "Tubo": ""
+    },
+
+
+        {
+        "id": "6",
+        "Exame": "HEPATITE C - QUANTIFICAÇAO POR PCR",
+        "Codigo": "RNAHC",
         "Tubo": ""
     },
 
@@ -629,6 +669,8 @@ function getTuboClass(tubo) {
             return 'class="Equipe azul"';
         case 'verde':
             return 'class="Equipe verde"';
+        case 'branco':
+            return 'class="Equipe branco"';
         default:
             return 'class="Equipe text-success"'; // Cor padrão caso não encontre nenhuma
     }
