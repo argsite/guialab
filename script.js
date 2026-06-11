@@ -10,7 +10,7 @@ var data = [
 
     {
         "id": "2",
-        "Exame": "GLICEMIA EM JEJUM",
+        "Exame": "GLICEMIA EM JEJUM / DOSAGEM DE GLICOSE",
         "Codigo": "XGLIC",
         "Tubo": "Amarelo"
     },
@@ -337,13 +337,13 @@ var data = [
     },
     {
         "id": "6",
-        "Exame": "FTA - ABS - ANTICORPOS IGG",
+        "Exame": "TESTE TREPONEMICO FTA - ABS - ANTICORPOS IGG",
         "Codigo": "FTA",
         "Tubo": "Vermelho"
     },
     {
         "id": "6",
-        "Exame": "FTA - ABS - ANTICORPOS IGM",
+        "Exame": "TESTE TREPONEMICO FTA - ABS - ANTICORPOS IGM",
         "Codigo": "FTAM",
         "Tubo": "Vermelho"
     },
@@ -355,7 +355,7 @@ var data = [
     },
     {
         "id": "6",
-        "Exame": "HEMOGLOBINA GLICADA",
+        "Exame": "HEMOGLOBINA GLICADA (HbA1c)",
         "Codigo": "HBGLI",
         "Tubo": "Roxo"
     },
@@ -503,8 +503,22 @@ var data = [
 
         {
         "id": "6",
-        "Exame": "",
-        "Codigo": "",
+        "Exame": "PROTEINA C REATIVA",
+        "Codigo": "PCR",
+        "Tubo": ""
+    },
+
+        {
+        "id": "6",
+        "Exame": "VDRL - SIFILIS",
+        "Codigo": "VDRL",
+        "Tubo": ""
+    },
+
+        {
+        "id": "6",
+        "Exame": "SODIO",
+        "Codigo": "NA",
         "Tubo": ""
     },
 
@@ -522,12 +536,54 @@ var data = [
         "Tubo": ""
     },
 
+
         {
         "id": "6",
         "Exame": "",
         "Codigo": "",
         "Tubo": ""
     },
+
+
+        {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
+
+        {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
+
+        {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
+
+        {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
+
+        {
+        "id": "6",
+        "Exame": "",
+        "Codigo": "",
+        "Tubo": ""
+    },
+
 
         {
         "id": "6",
