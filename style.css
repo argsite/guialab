@@ -245,6 +245,10 @@ table.table-striped.table-hover tbody tr:hover {
     color: #00A65A; /* Verde da Heparina */
 }
 
+.branco {
+color: #FAFAFA; /* Branco perolado */
+}
+
     .pagination {
         float: right;
         margin: 0 0 20px;
