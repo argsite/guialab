@@ -658,7 +658,7 @@ var data = [
        {
         "id": "6",
         "Exame": "HORMONIO LUTEINIZANTE - LH",
-        "Codigo": "LH",
+        "Codigo": "LH ",
         "Tubo": "Amarelo"
     },
 
