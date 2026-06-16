@@ -257,7 +257,7 @@ var data = [
         "id": "6",
         "Exame": "CREATININA URINÁRIA 24 HORAS",
         "Codigo": "CRE24",
-        "Tubo": ""
+        "Tubo": "Frasco 24h"
     },
 
     {
@@ -638,6 +638,42 @@ var data = [
         "Exame": "ZINCO (SORO)",
         "Codigo": "ZINCF",
         "Tubo": "Branco"
+    },
+
+       {
+        "id": "6",
+        "Exame": "LIPASE",
+        "Codigo": "LIPAS",
+        "Tubo": "Amarelo"
+    },
+
+       {
+        "id": "6",
+        "Exame": "FOSFORO",
+        "Codigo": "FOSFO",
+        "Tubo": "Amarelo"
+    },
+
+
+       {
+        "id": "6",
+        "Exame": "HORMONIO LUTEINIZANTE - LH",
+        "Codigo": "LH",
+        "Tubo": "Amarelo"
+    },
+
+       {
+        "id": "6",
+        "Exame": "HORMONIO FOLICULO ESTIMULANTE - FSH",
+        "Codigo": "FSH",
+        "Tubo": "Amarelo"
+    },
+
+       {
+        "id": "6",
+        "Exame": "PROGESTERONA",
+        "Codigo": "PROGE",
+        "Tubo": "Amarelo"
     },
 
 
