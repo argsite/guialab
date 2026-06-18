@@ -676,6 +676,13 @@ var data = [
         "Tubo": "Amarelo"
     },
 
+       {
+        "id": "6",
+        "Exame": "LITIO",
+        "Codigo": "LITIO",
+        "Tubo": "Amarelo"
+    },
+
 
     
 ];
