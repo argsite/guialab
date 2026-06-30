@@ -683,6 +683,21 @@ var data = [
         "Tubo": "Amarelo"
     },
 
+       {
+        "id": "6",
+            "Exame": "TEMPO DE TROMBINA",
+        "Codigo": "TTRO",
+        "Tubo": "Azul"
+    },
+
+
+       {
+        "id": "6",
+            "Exame": "DEHIDROTESTOSTERONA - DHT",
+        "Codigo": "DHT",
+        "Tubo": "Amarelo"
+    },
+
 
     
 ];
