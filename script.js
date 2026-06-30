@@ -699,6 +699,38 @@ var data = [
     },
 
 
+       {
+        "id": "6",
+            "Exame": "T4 - TETRAIODOTIROXINA",
+        "Codigo": "T4",
+        "Tubo": "Amarelo"
+    },
+
+
+       {
+        "id": "6",
+            "Exame": "TESTOSTERONA TOTAL",
+        "Codigo": "TESTO",
+        "Tubo": "Amarelo"
+    },
+
+
+       {
+        "id": "6",
+            "Exame": "TESTOSTERONA LIVRE",
+        "Codigo": "TESTL",
+        "Tubo": "Amarelo"
+    },
+
+
+       {
+        "id": "6",
+            "Exame": "T4 - TIROXINA LIVRE",
+        "Codigo": "T4L",
+        "Tubo": "Amarelo"
+    },
+
+
     
 ];
 
