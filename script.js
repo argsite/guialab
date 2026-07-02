@@ -730,6 +730,12 @@ var data = [
         "Tubo": "Amarelo"
     },
 
+     {
+        "id": "6",
+            "Exame": "CORTISOL SORO JEJUM",
+        "Codigo": "CORT1",
+        "Tubo": "Amarelo"
+    },
 
     
 ];
