@@ -736,7 +736,22 @@ var data = [
         "Codigo": "CORT1",
         "Tubo": "Amarelo"
     },
+    
+  {
+        "id": "6",
+            "Exame": "RETICULOCITOS",
+        "Codigo": "RETI",
+        "Tubo": "Roxo"
+    },
 
+      {
+        "id": "6",
+            "Exame": "ASC70 - ANTI - SCL - 70",
+        "Codigo": "SCL70",
+        "Tubo": "Vermelho"
+    },
+
+    
     
 ];
 
