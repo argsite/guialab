@@ -751,6 +751,20 @@ var data = [
         "Tubo": "Vermelho"
     },
 
+    {
+        "id": "6",
+            "Exame": "	GRUPO SANGUINEO (ABO)",
+        "Codigo": "ABO",
+        "Tubo": "Roxo"
+    },
+
+    {
+        "id": "6",
+            "Exame": "FATOR RH",
+        "Codigo": "RH",
+        "Tubo": "Roxo"
+    },
+
     
     
 ];
