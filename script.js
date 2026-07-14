@@ -765,6 +765,62 @@ var data = [
         "Tubo": "Roxo"
     },
 
+
+    {
+        "id": "6",
+            "Exame": "BETA 2 MICROGLOBULINA (SORO)",
+        "Codigo": "B2MIC",
+        "Tubo": "Amarelo"
+    },
+
+
+    {
+        "id": "6",
+            "Exame": "HEPATITE B - ANTI-HBC IGG",
+        "Codigo": "HBCG",
+        "Tubo": "Amarelo"
+    },
+
+
+    {
+        "id": "6",
+            "Exame": "HEPATITE B - ANTI - HBC - IGM",
+        "Codigo": "HBCM",
+        "Tubo": "Amarelo"
+    },
+
+
+    {
+        "id": "6",
+            "Exame": "BETA 2 MICROGLOBULINA (URINA ISOLADA)",
+        "Codigo": "	B2MIU",
+        "Tubo": "Frasco coletor"
+    },
+
+
+    {
+        "id": "6",
+            "Exame": "MONONUCLEOSE -Anticorpos heterófilo",
+        "Codigo": "MONOC",
+        "Tubo": "Amarelo"
+    },
+
+
+    {
+        "id": "6",
+            "Exame": "CITOMEGALOVIRUS - Anticorpos IgG",
+        "Codigo": "CMVG",
+        "Tubo": "Vermelho"
+    },
+
+
+    {
+        "id": "6",
+            "Exame": "CITOMEGALOVIRUS Anticorpos IgM",
+        "Codigo": "CMVM",
+        "Tubo": "Vermelho"
+    },
+
     
     
 ];
