@@ -821,6 +821,22 @@ var data = [
         "Tubo": "Vermelho"
     },
 
+    {
+        "id": "6",
+            "Exame": "BNP - BNP - PEPTÍDEO NATRIURETICO",
+        "Codigo": "BNP",
+        "Tubo": "Roxo"
+    },
+
+    {
+        "id": "6",
+            "Exame": "PRÓ-BNP",
+        "Codigo": "PBNP",
+        "Tubo": "Verde"
+    },
+
+
+
     
     
 ];
