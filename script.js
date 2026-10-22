@@ -835,7 +835,12 @@ var data = [
         "Tubo": "Verde"
     },
 
-
+    {
+        "id": "6",
+            "Exame": "MICROALBUMINÚRIA ISOLADA",
+        "Codigo": "MICA",
+        "Tubo": "Frasco coletor"
+    },
 
     
     
