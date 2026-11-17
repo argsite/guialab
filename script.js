@@ -842,6 +842,13 @@ var data = [
         "Tubo": "Frasco coletor"
     },
 
+    {
+        "id": "6",
+            "Exame": "ELETROFORESE DE HEMOGLOBINA",
+        "Codigo": "ELEHB",
+        "Tubo": "Roxo"
+    },
+
     
     
 ];
