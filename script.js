@@ -874,7 +874,7 @@ var data = [
         "id": "6",
             "Exame": "ANTICORPO ANTI-MICROSSOMAL",
         "Codigo": "ANTI",
-        "Tubo": "Roxo"
+        "Tubo": "Vermelho"
     },
 
     {
