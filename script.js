@@ -849,6 +849,44 @@ var data = [
         "Tubo": "Roxo"
     },
 
+    {
+        "id": "6",
+            "Exame": "TRAB - ANTIC. ANTI RECEPTOR DE TSH",
+        "Codigo": "TRAB",
+        "Tubo": "Amarelo"
+    },
+
+    {
+        "id": "6",
+            "Exame": "SOMATOMEDINA C (IGF-1)",
+        "Codigo": "SOMA",
+        "Tubo": "Amarelo"
+    },
+
+    {
+        "id": "6",
+            "Exame": "ADRENOCORTICOTROFICO (ACTH)",
+        "Codigo": "ACTH",
+        "Tubo": "Roxo"
+    },
+
+     {
+        "id": "6",
+            "Exame": "ANTICORPO ANTI-MICROSSOMAL",
+        "Codigo": "ANTI",
+        "Tubo": "Roxo"
+    },
+
+    {
+        "id": "6",
+            "Exame": "HORMONIO DO CRESCIMENTO - HGH jejum",
+        "Codigo": "HGH",
+        "Tubo": "Roxo"
+    },
+
+
+
+
     
     
 ];
